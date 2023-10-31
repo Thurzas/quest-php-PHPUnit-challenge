@@ -1,6 +1,4 @@
-/vendor/
-
-#Added by PHPSandbox
-/vendor
-.env
-database.sqlite
+vendor
+.vscode
+.idea
+.DS_Store
